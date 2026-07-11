@@ -55,6 +55,10 @@ Recommended viewer:
 - `photo_scene3`
 - `photo_scene4`
 
+## Contributing
+
+Collaborators should read [`CONTRIBUTING.md`](CONTRIBUTING.md) before making changes to the repository.
+
 ## Notes
 
 Git LFS is used to manage large files such as checkpoints, images, point clouds, and exported Gaussian Splatting files.
@@ -63,7 +67,3 @@ When cloning the repository, make sure Git LFS is installed and run:
 
 ```bash
 git lfs pull
-
-## Contributing
-
-Collaborators should read [`CONTRIBUTING.md`](CONTRIBUTING.md) before making changes to the repository.
