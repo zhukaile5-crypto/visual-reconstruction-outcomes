@@ -63,3 +63,7 @@ When cloning the repository, make sure Git LFS is installed and run:
 
 ```bash
 git lfs pull
+
+## Contributing
+
+Collaborators should read [`CONTRIBUTING.md`](CONTRIBUTING.md) before making changes to the repository.
