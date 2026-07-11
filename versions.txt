@@ -1,0 +1,8 @@
+Python packages:
+nerfstudio: 1.1.5
+gsplat: 1.4.0
+ninja: 1.13.0
+torch: 2.1.2+cu118
+torch CUDA: 11.8
+CUDA available: True
+GPU: NVIDIA GeForce RTX 4090
